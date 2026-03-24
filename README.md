@@ -4,7 +4,7 @@
 
 ## 🛠 Projects
 
-**[EyeSpeak](https://github.com/JPW-star/dev-journal/tree/master/EyeSpeak)** — ALS 환자를 위한 시선추적 기반 커뮤니케이션 앱 (진행 중)
+**eyespeak** — ALS 환자를 위한 시선추적 기반 커뮤니케이션 앱 (진행 중)
 > Spring Boot · WebSocket/STOMP · Python 임베딩 검색 | 백엔드 + 추천 로직 담당
 
 **[Try-Catch](https://github.com/e206-trycatch/try-catch)** — 방탈출 컨셉 게임으로 즐기는 실전 디버깅 학습 서비스
