@@ -3,13 +3,13 @@
 ## Projects
 
 **[EyeSpeak](https://github.com/JPW-star/dev-journal/tree/master/EyeSpeak)** — ALS 환자를 위한 시선추적 기반 커뮤니케이션 앱 (진행 중)
-> Spring Boot · WebSocket/STOMP · FastAPI · 임베딩 검색 | 백엔드 + 추천 로직 담당
+> Spring Boot · WebSocket/STOMP · Python 임베딩 검색 | 백엔드 + 추천 로직 담당
 
 **[Try-Catch](https://github.com/e206-trycatch/try-catch)** — 방탈출 컨셉 게임으로 즐기는 실전 디버깅 학습 서비스
-> React · FastAPI · WebSocket | 프론트엔드 + AI 서버 담당
+> React · WebSocket · FastAPI | 프론트엔드 + AI 서버 담당
 
 **[Book Recommend](https://github.com/JPW-star/SSAFY_PJT_BOOK)** — AI 기반 도서 분석과 맞춤형 추천 플랫폼
-> Django · Vue.js | 백엔드 담당
+> Django | 백엔드 담당
 
 ## Skills
 
