@@ -19,6 +19,13 @@
 <tr>
 <td valign="top">
 
+## 📊 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookyss)](https://solved.ac/kookyss/)
+
+</td>
+<td valign="top">
+
 ## 💡 Skills
 
 | Category | |
@@ -28,13 +35,6 @@
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
 | **DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
-
-</td>
-<td valign="top">
-
-## 📊 Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookyss)](https://solved.ac/kookyss/)
 
 </td>
 </tr>
