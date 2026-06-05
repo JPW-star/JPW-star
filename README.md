@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=%EB%8F%84%EA%B5%AC%EB%8A%94%20%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84%20%EA%B8%B0%EB%B3%B8%EC%9D%80%20%EC%A7%81%EC%A0%91%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%A0%A4%20%ED%95%A9%EB%8B%88%EB%8B%A4)](https://github.com/JPW-star)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JPW-star&color=3498DB&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
