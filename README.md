@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=200&text=Build,%20Break,%20Learn&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=200&text=Hello,%20World!&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=%EB%8F%84%EA%B5%AC%EB%8A%94%20%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84%20%EA%B8%B0%EB%B3%B8%EC%9D%80%20%EC%A7%81%EC%A0%91%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%A0%A4%20%ED%95%A9%EB%8B%88%EB%8B%A4)](https://github.com/JPW-star)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=600&size=22&duration=3500&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=%EB%8F%84%EA%B5%AC%EB%8A%94%20%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84%20%EA%B8%B0%EB%B3%B8%EC%9D%80%20%EC%A7%81%EC%A0%91%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%A0%A4%20%ED%95%A9%EB%8B%88%EB%8B%A4)](https://github.com/JPW-star)
 
 </div>
 
@@ -10,19 +10,7 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td>
-
-- 🧑‍💻 **박준수 (Junsu Park)**
-- 🎓 SSAFY 14기
-- 🎯 관심 분야: **백엔드 / 서버 아키텍처**, **AI 활용**
-- ⚾ 야구, 미식축구 등 스포츠를 좋아합니다
-- 📫 snowjpw@gmail.com
-
-</td>
-</tr>
-</table>
+### 박준수 · Junsu Park
 
 <p>
   <img src="https://img.shields.io/badge/SSAFY%2014%EA%B8%B0-0F62FE?style=flat-square&logo=samsung&logoColor=white" />
@@ -30,6 +18,9 @@
   <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white" />
   <a href="mailto:snowjpw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+- 🎯 &nbsp;최근 관심 분야 · **백엔드 / 서버 아키텍처**, **AI 활용**
+- ⚾ &nbsp;야구, 미식축구 등 스포츠를 좋아합니다
 
 ---
 
@@ -58,21 +49,6 @@
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JPW-star&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPW-star&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JPW-star&hide_border=true&theme=tokyonight" />
-
-</div>
 
 ---
 
