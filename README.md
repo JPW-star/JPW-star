@@ -4,11 +4,11 @@
 
 ## 🛠 Projects
 
-**[eyespeak](https://github.com/JPW-star/eyespeak)** — ALS 환자를 위한 시선추적 기반 커뮤니케이션 앱
-> Spring Boot · WebSocket/STOMP · Python 임베딩 검색 | 백엔드 + 추천 로직 담당
-
 **4647** — 소방대원의 안전을 실시간으로 모니터링하고 위험 상황을 조기에 알리는 AI 통합 관제 서비스
 > Spring Boot · FastAPI · React · Android(Kotlin) | Fullstack(백엔드 위주) + AI + Android 담당
+
+**[eyespeak](https://github.com/JPW-star/eyespeak)** — ALS 환자를 위한 시선추적 기반 커뮤니케이션 앱
+> Spring Boot · WebSocket/STOMP · Python 임베딩 검색 | 백엔드 + 추천 로직 담당
 
 **[Try-Catch](https://github.com/e206-trycatch/try-catch)** — 방탈출 컨셉 게임으로 즐기는 실전 디버깅 학습 서비스
 > React · WebSocket · FastAPI | 프론트엔드 + AI 서버 담당
