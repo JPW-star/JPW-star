@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=200&text=Hello,%20World!&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&text=Hello,%20World!&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Junsu%20Park%20%C2%B7%20Developer&descSize=16&descAlignY=56&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=600&size=22&duration=3500&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=%EB%8F%84%EA%B5%AC%EB%8A%94%20%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84%20%EA%B8%B0%EB%B3%B8%EC%9D%80%20%EC%A7%81%EC%A0%91%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%A0%A4%20%ED%95%A9%EB%8B%88%EB%8B%A4)](https://github.com/JPW-star)
 
@@ -14,13 +14,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/SSAFY%2014%EA%B8%B0-0F62FE?style=flat-square&logo=samsung&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-2C3E50?style=flat-square&logo=serverfault&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white" />
   <a href="mailto:snowjpw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🎯 &nbsp;최근 관심 분야 · **백엔드 / 서버 아키텍처**, **AI 활용**
-- ⚾ &nbsp;야구, 미식축구 등 스포츠를 좋아합니다
+백엔드와 서버 아키텍처를 중심으로 공부하고 있고, 요즘은 **AI 활용**에 관심이 많습니다.
+키보드 밖에서는 야구와 미식축구 같은 스포츠를 즐깁니다.
 
 ---
 
