@@ -23,7 +23,7 @@
 
 ## 🛠 Projects
 
-**[SSAFY-4647/4647](https://github.com/SSAFY-4647/4647)** — 소방대원의 안전을 실시간으로 모니터링하고 위험 상황을 조기에 알리는 AI 통합 관제 서비스
+**[4647](https://github.com/SSAFY-4647/4647)** — 소방대원의 안전을 실시간으로 모니터링하고 위험 상황을 조기에 알리는 AI 통합 관제 서비스
 > Spring Boot · FastAPI · React · Android(Kotlin) | Fullstack(백엔드 위주) + AI + Android 담당
 
 **[eyespeak](https://github.com/JPW-star/eyespeak)** — ALS 환자를 위한 시선추적 기반 커뮤니케이션 앱
